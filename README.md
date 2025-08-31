@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/gary-glacker/gary-glacker/assets/your-banner-image.png" alt="Banner" width="100%"/>
+	<img src="https://avatars.githubusercontent.com/u/191345020?s=48&v=4" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Gary Glacker 👋</h1>
